@@ -15,7 +15,7 @@ The focus of this assessment is **how you work with AI**, not how much code you 
 1. **A redesigned app** in your own public GitHub repository, created from this template.
 2. **A README** that explains what the app does and how to set it up and run it.
 3. **A short write-up** (in your README or a separate `AI_WORKFLOW.md` file) covering:
-   - **Each stage of your work:** understanding the app, deciding what to change, making the changes, and testing them.
+   - **Each stage of your work:** understanding the app, deciding what to change and making the changes.
    - **The AI tools you used and why** you chose them for each task.
    - **The prompts you used** for your main changes.
    - **How you validated AI-generated code:** what you checked, what AI got wrong, and how you fixed it.
@@ -29,6 +29,6 @@ The focus of this assessment is **how you work with AI**, not how much code you 
 
 ## Tips
 
-- Run the app after every change. Don't commit code you haven't tested.
+- Run the app after every change to be sure you're committing the right thing.
 - Check your app on a phone-sized screen as well as a laptop.
 - Never commit passwords, API keys or personal data.
