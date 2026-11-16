@@ -20,8 +20,8 @@ npm run dev
 
 Then open http://localhost:5173
 
-## Week 1 assignment
+## Week 1 assessment
 
-Redesign this app using an AI-assisted workflow, document how you used AI, and publish it on GitHub. Due at the end of Week 1.
+Explore the app with AI and write up what you'd improve. Due by 12 noon on Saturday.
 
 Read the full brief in [ASSESSMENT.md](ASSESSMENT.md).

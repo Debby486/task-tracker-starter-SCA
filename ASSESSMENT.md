@@ -1,34 +1,23 @@
-# Week 1 Assessment: Redesign the Task Tracker
+# Week 1 Assessment: Starter App Exploration
 
-**Due:** End of Week 1
+**Due:** Saturday 21/11/26, 12 noon.
 
 ## Your task
 
-Redesign this starter application using an AI-assisted workflow, then publish it on GitHub.
+Get the starter app running, then use AI to help you understand how it works: what each part does and how the pieces fit together. Add a `NOTES.md` file to your repository with:
 
-"Redesign" means improving the app you were given, not starting again. You choose what to improve. For example: the layout and visual design, how it works on a phone, the structure of the code, input validation, or what users see when something is missing or goes wrong.
-
-The focus of this assessment is **how you work with AI**, not how much code you change.
-
-## What to submit
-
-1. **A redesigned app** in your own public GitHub repository, created from this template.
-2. **A README** that explains what the app does and how to set it up and run it.
-3. **A short write-up** (in your README or a separate `AI_WORKFLOW.md` file) covering:
-   - **Each stage of your work:** understanding the app, deciding what to change and making the changes.
-   - **The AI tools you used and why** you chose them for each task.
-   - **The prompts you used** for your main changes.
-   - **How you validated AI-generated code:** what you checked, what AI got wrong, and how you fixed it.
-   - **AI suggestions you rejected**, with a one-line reason for each.
+- **At least three things you would improve**, and why.
+- **The prompts and AI tools you used** to explore the app.
+- **One thing AI got wrong or missed**, and how you noticed.
 
 ## How to submit
 
 1. Click **Use this template** on the starter repository and create a **public** repository in your own GitHub account.
-2. Work in small commits with clear messages.
+2. Add your `NOTES.md` file and commit it with a clear message.
 3. Submit your repository link through the submission form shared by your facilitator.
 
 ## Tips
 
-- Run the app after every change to be sure you're committing the right thing.
-- Check your app on a phone-sized screen as well as a laptop.
+- Run the app before you start, and check it still runs if you change anything.
+- Check what AI tells you against the actual code. Don't take its explanation on trust.
 - Never commit passwords, API keys or personal data.
